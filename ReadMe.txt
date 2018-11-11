@@ -7,10 +7,10 @@ Contain within is a Jupyter notebook explaining the use of the numpy.random pack
 including detailed explanations of at least ?ve of the distributions provided for in the package. 
 There are four distinct tasks carried out in the Jupyter notebook.
 
-1. Explain the overall purpose of the package. 
-2. Explain the use of the “Simple random data” and “Permutations” functions.
-3. Explain the use and purpose of at least ?ve “Distributions” functions.
-4. Explain the use of seeds in generating pseudorandom numbers.
+1. Explaination of the overall purpose of the package. 
+2. Explaination of the use of the “Simple random data” and “Permutations” functions.
+3. Explaination of the use and purpose of at least ?ve “Distributions” functions.
+4. Explaination of the use of seeds in generating pseudorandom numbers.
 
 
 Prerequisites
@@ -26,7 +26,7 @@ Built With
 - Python 3
 
 Repository Used
-GitHub
+GitHub; https://github.com/shanecanny1/Assignment-1
 
 Versioning
 See the tags in GitHub repository.
